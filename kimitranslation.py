@@ -9,7 +9,7 @@ mocr = MangaOcr()
 
 # 初始化 Kimi API 客户端
 client = OpenAI(
-    api_key="sk-eTAJnHE0m3yXprkuKkvKEVmkusQ4PJIVrRlfJZFgoKkWKpQV",  # 替换为你的 Kimi API Key
+    api_key="Kimi API Key",  # 替换为你的 Kimi API Key
     base_url="https://api.moonshot.cn/v1",
 )
 
