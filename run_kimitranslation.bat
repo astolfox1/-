@@ -1,0 +1,6 @@
+@echo off
+echo Activating virtual environment...
+call C:\Users\Dell\Documents\manga_ocr-0.1.14\venv\Scripts\activate
+echo Running kimitranslation.py...
+python C:\Users\Dell\Documents\manga_ocr-0.1.14\kimitranslation.py
+pause
