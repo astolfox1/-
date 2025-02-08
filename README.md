@@ -1,4 +1,4 @@
-# -
+Manga OCR and Translation Tool
 用于辅助汉化
 Manga OCR and Translation Tool
 项目简介
