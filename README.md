@@ -1,4 +1,4 @@
-Manga OCR and Translation Tool
+[Manga OCR and Translation Tool
 用于辅助汉化
 Manga OCR and Translation Tool
 项目简介
@@ -58,3 +58,4 @@ Fork 本仓库。
 创建 Pull Request。
 开源协议
 本项目采用 MIT License。详情请参阅 LICENSE 文件。
+](https://github.com/astolfox1/Manga-OCR-and-Translation-Tool/edit/main/README.md)
