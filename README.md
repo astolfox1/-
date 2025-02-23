@@ -69,8 +69,8 @@ python kimitranslation.py
 
 双击 `run_kimitranslation.bat` 文件，自动激活虚拟环境并运行 Python 脚本。
 
-#### 使用 AutoHotkey 脚本
-
+#### （可按需选择）使用 AutoHotkey 脚本
+例如：
 1. 将 `ConvertToTraditional.ahk` 文件保存到项目目录。
 2. 双击 `ConvertToTraditional.ahk` 文件运行脚本。
 3. 选中需要转换的文本，按鼠标侧边键（`XButton1`）触发转换。
